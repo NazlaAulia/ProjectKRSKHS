@@ -104,7 +104,7 @@ database=krskhs
 4. Jalankan aplikasi melalui Visual Studio
 
 
-📸 Screenshot
+📸 Screenshot beberapa contoh dari aplikasi
 <img width="878" height="621" alt="Screenshot 2025-11-27 142101" src="https://github.com/user-attachments/assets/f87edd5e-74a0-4daa-95d7-0cce6c649701" />
 <img width="1130" height="823" alt="Screenshot 2025-11-27 150016" src="https://github.com/user-attachments/assets/8494869e-2ab0-4c12-8a69-1cec136a7d05" />
 <img width="750" height="630" alt="Screenshot 2025-11-27 145907" src="https://github.com/user-attachments/assets/1f6b0d54-2209-417a-8283-08cc5abbd79f" />
