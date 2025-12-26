@@ -83,8 +83,8 @@ Relasi utama:
 ## 📦 Instalasi & Konfigurasi
 
 1. Clone repository:
-   ```bash
- [git clone https://github.com/username/nama-repo.git](https://github.com/NazlaAulia/ProjectKRSKHS.git)
+   ```bash  [git clone https://github.com/username/nama-repo.git](https://github.com/NazlaAulia/ProjectKRSKHS.git)
+
 
 2. Import database MySQL:
 
