@@ -84,7 +84,7 @@ Relasi utama:
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/username/nama-repo.git
+ [git clone https://github.com/username/nama-repo.git](https://github.com/NazlaAulia/ProjectKRSKHS.git)
 
 2. Import database MySQL:
 
@@ -130,5 +130,4 @@ Institusi : Universitas Negeri Surabaya
 
 
 📄 Lisensi
-
 Proyek ini dibuat untuk keperluan pembelajaran dan tidak digunakan untuk tujuan komersial.
